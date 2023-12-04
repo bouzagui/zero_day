@@ -1,1 +1,1 @@
-#Hello My School
+Setting up your local coding environment
